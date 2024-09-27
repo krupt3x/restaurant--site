@@ -1,0 +1,21 @@
+{
+  "name": "restaurant-site",
+  "version": "1.0.0",
+  "description": "Website of a hypothetical restaurant.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/krupt3x/restaurant-site"
+  },
+  "keywords": [
+    "restaurant-site",
+    "food",
+    "delicious-food",
+    "buy-food"
+  ],
+  "author": "krupt3x",
+  "license": "MIT"
+}
